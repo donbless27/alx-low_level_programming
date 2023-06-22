@@ -8,7 +8,7 @@
   * Return: void
   */
 
-void print_strings(const *separator, const unsigned int n, ...)
+void print_strings(const char *separator, const unsigned int n, ...)
 {
 	va_list args;
 	unsigned int numbs;
@@ -27,6 +27,6 @@ void print_strings(const *separator, const unsigned int n, ...)
 		if (separator && numbs != n - 1)
 			printf("%s", separator);
 	}
-	va_end(ap);
+	va_end(args);
 	printf("\n");
 }
