@@ -16,7 +16,7 @@ int clear_bit(unsigned long int *n, unsigned int index)
 		return (-1);
 	/*bitwise NOT unary operator*/
 	numb = ~(numb << index);/* then use the () to nest the left shift operator*/
-
+	*n = *n & numb;
 
 	return (1);
 
