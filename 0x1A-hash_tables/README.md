@@ -28,7 +28,10 @@ All your header files should be include guarded**
 
 # What! How is this possible?
 
-(https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/5ebbea5dea5a575b38243d597604000715982925.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230907%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230907T142337Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=5521a50e2d485faa6070916d8a7ca3553aa029da4d10bccc5dc6bd13049d6b0e)
+![Alt Text](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/5ebbea5dea5a575b38243d597604000715982925.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230907%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230907T142337Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=5521a50e2d485faa6070916d8a7ca3553aa029da4d10bccc5dc6bd13049d6b0e)
 
 
-(https://s3.amazonaws.com/intranet-projects-files/holbertonschool-low_level_programming/253/php.png)
+![Alt Text](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-low_level_programming/253/php.png)
+
+
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
